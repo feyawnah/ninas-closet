@@ -1,0 +1,109 @@
+* {
+	font-family: 'Yellowtail', serif;
+	margin:0px;
+	padding:20px;
+	font-size: 40px;
+}
+
+body {
+    height:20px;
+    background-color:#FEFF33;
+    width: 900px;
+    margin: ;
+}
+
+li {
+    display: inline;
+    color:;
+    padding: 50px;
+}
+
+.nav {
+    background: rgb();
+    border-bottom:20px;
+    display: inline-block;
+    color: #F0Ffce;
+    padding: 5px 0px 5px 0px;
+    text-align: center;
+    margin-right: auto;
+    
+}
+
+.nav li {
+    float:auto;
+    list-style: armenian;
+    width: 15px;
+    text-align:auto;
+}
+
+.nav a {
+    text-decoration: ;
+    color:purple;
+    display: ;
+    padding: ;
+    border-radius: ;
+    transition: ;
+}
+
+.content a:hover  {
+    color: #92C934;
+    border-radius: ; /*lets keep it just in case*/
+    background-color: ; /*Images*/
+    font-size: ;
+    text-align:center;
+}
+
+/* These are the header styles
+=============================*/
+
+h1 {
+    text-align: center;
+    color: #6C3483;    /*I like it with this color*/
+    padding-top:30px;
+}
+
+h2 {
+    text-align: center;
+    color: #F0Ffce;
+}
+
+.h3 {
+    text-align: center;
+    color: #b51798;  /*future color*/
+    padding: 20px;
+}
+
+h4 {
+    /*we are not using this*/
+}
+
+.header {
+    background: url(); /*==Images==*/
+    height: ;
+    background-position: ;
+    background-color: ;
+    position: ;
+    margin-top: auto;
+}
+
+table {
+    margin: auto;
+    border-color: #b51798;
+    border: 2px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 3px;
+    border-image-width: 4px;
+    color: #F0Ffce;
+}
+p {
+    color:#F0Ffce;
+    padding-bottom:15px;
+    padding-left:15px;
+    
+}
+
+div {
+    margin: auto;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+}
