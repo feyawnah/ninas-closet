@@ -53,6 +53,28 @@ li {
     text-align:center;
 }
 
+.full-img {
+    width: 100%;
+    display: block;
+}
+
+.black {
+    background-color: black;
+    padding: 0px 2px 0px 2px;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.blue {
+    background-color:#4F33FF;
+}
+
+.purple {
+    background-color: #FF33E0;
+}
+
 /* These are the header styles
 =============================*/
 
